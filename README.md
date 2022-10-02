@@ -144,7 +144,9 @@ int main(void)
 
 
 ### Output screen shots :
+![image](https://user-images.githubusercontent.com/94154683/193458693-fc363ddd-f14c-4a92-886f-b56b779880b4.png)
 
+![image](https://user-images.githubusercontent.com/94154683/193458725-ea0d8010-6302-4ad4-91b2-5011544aeedd.png)
 
 
 ### Circuit Diagram:
