@@ -145,10 +145,7 @@ int main(void)
 
 ### Output screen shots :
 
-![Screenshot (296)](https://user-images.githubusercontent.com/94154683/193458412-845cbb84-f6f2-41ce-913e-c24f6e7c0039.png)
 
-
-![Screenshot (297)](https://user-images.githubusercontent.com/94154683/193458420-c67abbae-67a7-4ae5-be51-4b8e4d689882.png)
 
 ### Circuit Diagram:
 
